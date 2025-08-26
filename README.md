@@ -23,6 +23,6 @@ Colab 메뉴에서 **[런타임] > [런타임 유형 변경]**으로 이동하�
 마지막 셀의 실행이 완료되면, 출력 로그에 Running on public URL: https://....gradio.live 와 같은 공개 URL이 나타납니다. 이 링크를 클릭하여 웹 UI에 접속하세요.
 
 Credits
-VibeVoice Model: Microsoft
+VibeVoice Model: [Microsoft](https://github.com/microsoft/VibeVoice)
 
 
